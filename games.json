@@ -3,5 +3,45 @@
         "name": "A Shedletsky POV",
         "slug": "a-shedletsky-pov",
         "image": "/cache/data/image/game/a-shedletsky-pov/ashedletskypov-m186x186.webp"
+    },
+    {
+        "name": "Take Care of Shadow Milk",
+        "slug": "take-care-of-shadow-milk",
+        "image": "/cache/data/image/game/take-care-of-shadow-milk/take-care-of-shadow-milk-m186x186.webp"
+    },
+    {
+        "name": "Die in the Dungeon",
+        "slug": "die-in-the-dungeon",
+        "image": "/cache/data/image/game/die-in-the-dungeon/die-in-the-dungeon-game-m186x186.webp"
+    },
+    {
+        "name": "Stardew Valley",
+        "slug": "stardew-valley",
+        "image": "/cache/data/image/game/stardew-valley/stardew-valley-game-m186x186.webp"
+    },
+    {
+        "name": "Backpack Hero",
+        "slug": "backpack-hero",
+        "image": "/cache/data/image/game/backpack-hero/backpack-hero-game-m186x186.webp"
+    },
+    {
+        "name": "Wonder Flower",
+        "slug": "wonder-flower",
+        "image": "/cache/data/image/game/wonder-flower/wonder-flower-m186x186.webp"
+    },
+    {
+        "name": "Noobs Are Coming",
+        "slug": "noobs-are-coming",
+        "image": "/cache/data/image/game/noobs-are-coming/noobs-are-coming-m186x186.webp"
+    },
+    {
+        "name": "Blastronaut",
+        "slug": "blastronaut",
+        "image": "/cache/data/image/game/blastronaut/blastronaut-m186x186.webp"
+    },
+    {
+        "name": "Dungeon Raid",
+        "slug": "dungeon-raid",
+        "image": "/cache/data/image/game/dungeon-raid/dungeon-raid-m186x186.webp"
     }
 ]
